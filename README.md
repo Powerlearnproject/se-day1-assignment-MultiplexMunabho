@@ -22,6 +22,7 @@ Importance of Software Engineering in industry:
 
 **Identify and describe at least three key milestones in the evolution of software engineering.
 **
+
 A. The Birth of Software Engineering (1968)
 Description: The term "software engineering" was formally introduced at the NATO Software Engineering Conference in 1968. This conference, held in Garmisch, Germany, was a pivotal moment where the need for applying engineering principles to software development was recognized. Prior to this, software development was more ad-hoc and less systematic.
 
@@ -48,6 +49,7 @@ Impact:
 
 **List and briefly explain the phases of the Software Development Life Cycle.
 **
+
 The Software Development Life Cycle (SDLC) is a systematic process used to develop software applications. It includes the following phases:
 
 1. Requirement Gathering and Analysis
@@ -77,6 +79,7 @@ The Software Development Life Cycle (SDLC) is a systematic process used to devel
 
 **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 **
+
 Waterfall Methodology
 - Sequential Phases: The Waterfall model is a linear, sequential approach where each phase of development must be completed before the next one begins. The typical phases are requirements, design, implementation, testing, deployment, and maintenance.
 - Documentation: Emphasizes thorough documentation and formal review processes.
@@ -107,6 +110,7 @@ Therefore, Waterfall is suited for projects with clear, unchanging requirements,
 
 **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 **
+
 Software Developer
 Roles and Responsibilities:
 1. Coding and Implementation:
@@ -178,6 +182,7 @@ Example:  A Project Manager might oversee the development of a new enterprise so
 
 **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 **
+
 Integrated Development Environments (IDEs)
 Importance:
 1. Enhanced Productivity:
@@ -215,6 +220,7 @@ Examples:
 
 **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 **
+
 1. Keeping Up with Rapidly Changing Technology
 The technology landscape is constantly evolving, with new programming languages, frameworks, tools, and best practices emerging frequently. Staying updated can be overwhelming.
 Strategies:
@@ -239,6 +245,7 @@ Strategies:
 
 **Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 **
+
 1. Unit Testing: Tests individual components or functions in isolation to verify that each works as intended. It helps catch bugs early and ensures the correctness of the smallest parts of the code.
 
 2. Integration Testing: Focuses on interactions between integrated units/modules, ensuring they work together correctly. It detects issues arising from interfaces or data exchange between components.
@@ -252,10 +259,12 @@ Strategies:
 
 **Define prompt engineering and discuss its importance in interacting with AI models.
 **
+
 Prompt engineering involves crafting precise and effective inputs (prompts) to guide AI models in generating desired outputs. By carefully selecting words, structure, and context, prompt engineering maximizes the accuracy, relevance, and quality of AI responses. It’s crucial because AI models, like GPT, rely heavily on input prompts to understand user intent and produce meaningful results. Effective prompt engineering enables users to harness the full potential of AI, ensuring it delivers useful and contextually appropriate responses, making it a key skill in AI-driven tasks, from content generation to problem-solving.
 
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 **
+
 Vague Prompt: "Tell me about technology."
 
 Improved Prompt: "Explain the impact of artificial intelligence on healthcare, including examples of how AI is used in diagnostics and treatment."

@@ -1,16 +1,22 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15695354&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 **Part 1: Introduction to Software Engineering
 **
+
 Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is the disciplined application of engineering principles and practices to the design, development, testing, and maintenance of software systems. It encompasses a broad range of activities, methodologies, and tools aimed at creating high-quality software that meets user needs and is reliable, maintainable, and scalable.It involves:
 
 a. Understanding what is needed by figuring out what the software should do.
+
 b. Planning and Designing: create a plan and design for the software which helps to decide how everything will fit together.
+
 c. Building the Software: By starting to write the code.
+
 d. Testing: checking to make sure everything works correctly.
+
 e. Maintaining: Once the software is up and running, you keep it updated and fix any problems that come up.
 
 Importance of Software Engineering in industry:
